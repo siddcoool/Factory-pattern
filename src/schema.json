@@ -1,0 +1,27 @@
+[
+  {
+    "component": "TextBox",
+    "key": "firstName",
+    "type": "text",
+    "label": "First Name",
+    "required": true,
+    "placeholder":"first name",
+    "initial_value": "piyush"
+  },
+  {
+    "component": "TextBox",
+    "key": "lastName",
+    "type": "text",
+    "label": "Last Name",
+    "placeholder":"last name",
+    "required": true,
+    "initial_value": "kumar"
+  },
+  {
+    "component": "Button",
+    "key": "submit",
+    "type": "submit",
+    "placeholder":"button",
+    "label": "Submit"
+  }
+]
